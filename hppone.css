@@ -1,0 +1,20 @@
+/*
+* @Author: name
+* @Date:   2023-09-16 13:36:01
+* @Last Modified by:   name
+* @Last Modified time: 2023-09-16 14:00:42
+*/
+*{
+    background-color: #00cc99;
+    margin:0 auto;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+.page_three{
+    width:25%;
+    height:755px;
+    border:1px solid #0000cc ;
+    background-color:#0000cc;
+    margin:auto 100% auto 0px;
+}
